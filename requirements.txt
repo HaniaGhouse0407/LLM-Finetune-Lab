@@ -1,0 +1,10 @@
+transformers
+peft
+bitsandbytes
+accelerate
+trl
+datasets
+streamlit
+torch
+pandas
+numpy
